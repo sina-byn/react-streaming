@@ -9,6 +9,6 @@
 	"Import the React library": {
 		"scope": "javascript,typescript,javascriptreact,typescriptreact",
 		"prefix": "ri",
-		"body": "import * as React from 'react';",
+		"body": "import * as React from 'react';\n",
 	}
 }
