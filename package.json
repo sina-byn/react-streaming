@@ -12,7 +12,9 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "dotenv": "^16.4.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "react": "^19.0.0-rc-827cbea417-20240606",
+    "react-dom": "^19.0.0-rc-827cbea417-20240606"
   },
   "devDependencies": {
     "@babel/core": "^7.24.7",
