@@ -22,6 +22,7 @@ app.get('/', (_req, res) => {
       <App />
     </Html>,
     {
+      bootstrapScripts: ['/bundle.js'],
       onShellReady() {
         stream.pipe(res);
       },
